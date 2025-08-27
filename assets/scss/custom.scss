@@ -6,13 +6,24 @@
   margin: 0;
   display: flex;
   flex-wrap: wrap;
-  gap: 10px;
+  gap: 0.625rem;
+
+  > li {
+    border-radius: 1rem;
+    padding: 0.5rem 1rem;
+  }
+}
+
+.list-style-none {
+  list-style: none;
+  padding: 0;
+  margin: 0;
 }
 
 .colorscheme-light .custom-skills > li {
-  background-color: pink;
+  background-color: #fed4d4;
 }
 
 .colorscheme-dark .custom-skills > li {
-  background-color: $link-color;
+  background-color: #7d2020;
 }
