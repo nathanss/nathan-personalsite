@@ -28,7 +28,7 @@
 
   .work-title {
     font-weight: bold;
-    margin-top: 0;
+    margin-top: 0rem;
     margin-bottom: 0.5rem;
   }
 }
@@ -50,10 +50,40 @@
   .custom-skills > li {
     background-color: #fed4d4;
   }
+  .about {
+    h2 {
+      color: #7d2020;
+    }
+  }
+
+  .content article {
+    p, li:not(.custom-skills > li) {
+      color: #6c6c6c;
+    }
+
+    p.work-title {
+      color: #000;
+    }
+  }
 }
 
 .colorscheme-dark {
   .custom-skills > li {
     background-color: #7d2020;
+  }
+  .about {
+    h2 {
+      color: #fed4d4;
+    }
+  }
+
+  .content article {
+    p, li:not(.custom-skills > li) {
+      color: #bebebe;
+    }
+
+    p.work-title {
+      color: #dadada;
+    }
   }
 }
