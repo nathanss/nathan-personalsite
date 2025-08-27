@@ -3,7 +3,7 @@ title = "Projects"
 slug = "projects"
 +++
 
-Here's a list of some projects that I worked on:
+Here's a non-exhaustive list of projects that I worked on:
 
 ## WooCommerce's First-party Plugins (Nov 2023 - Apr 2025)
 
@@ -16,7 +16,7 @@ Full-Stack Developer (React/PHP) for multiple successful WooCommerce extensions 
 
 ## WooCommerce's new product editor (Nov 2022 - Nov 2023)
 
-Responsible for creating a new version of the product editor for WooCommerce as a Single Page Application using React and TypeScript.
+Full-Stack Developer (React/PHP) responsible for creating a new version of the product editor for WooCommerce as a Single Page Application using React and TypeScript.
 
 * Redesigned the existing front-end with extensibility in mind in order to appeal to third-party plugin developers
 * Implemented UI and UX enhancements to the existing WooCommerce classic product editor while contributing to the development of the new one in parallel
@@ -32,9 +32,19 @@ React Developer for MadHive, an AdTech company, responsible for the activation o
 
 ## SAP's Deal Capture (Jan 2018 - Sep 2021)
 
-Deal Capture was designed to help traders in the oil and gas industry to capture the details of physical and strategy trade deals in an intuitive and efficient way.
+Front-end architect for Deal Capture, a product that is designed to help traders in the oil and gas industry to capture the details of physical and strategy trade deals in an intuitive and efficient way.
 
 * Part of the team in the early stages of the product
 * Created front-end architecture using SAPUI5 front-end framework
-* Pushed for TypeScript's adoption and implemented it, it was one of the earliest SAP projects to adopt it
+* Pushed for TypeScript's adoption and implemented it, being an early adopter in the company
 * Built a culture around testability, ensuring quality of deliverables
+
+## Open source contributions
+
+### [WooCommerce](https://github.com/woocommerce/woocommerce/pulls?q=is%3Apr+author%3Anathanss+is%3Aclosed)
+
+A customizable, open-source ecommerce platform built on WordPress.
+
+### [ui5-simple-require](https://github.com/SAP/ui5-simple-require/commits/master/?author=nathanss)
+
+A library designed to import UI5 modules into NodeJS applications, allowing isolation of UI5 components and injection of dependencies to create an isolated test environment.

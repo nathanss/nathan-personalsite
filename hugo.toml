@@ -29,9 +29,9 @@ style = "github-dark"
   author = "Nathan S. Schneider"
   info = "Senior Software Engineer"
   description = "10+ years of experience with a strong passion for collaboration and knowledge sharing."
+  description2 = "Loves music and video-games."
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.jpg"
-  #gravatar = "john.doe@example.com"
 
   faviconSVG = "/img/favicon.svg"
   favicon_32 = "/img/favicon-32x32.png"
@@ -44,9 +44,7 @@ style = "github-dark"
   colorScheme = "dark"
   hidecolorschemetoggle = false
 
-# customCSS = ["css/custom.css"]
 customSCSS = ["scss/custom.scss"]
-  # customJS = ["js/custom.js"]
 
 [taxonomies]
   category = "categories"
@@ -67,12 +65,12 @@ customSCSS = ["scss/custom.scss"]
   url = "https://www.linkedin.com/in/nsschneider/"
 
 # Menu links
-#[[menu.main]]
-#  name = "Blog"
-#  weight = 1
-#  url  = "posts/"
 [[menu.main]]
-  name = "About"
+  name = "Blog"
+  weight = 4
+  url  = "posts/"
+[[menu.main]]
+  name = "About me"
   weight = 2
   url = "about/"
 [[menu.main]]
