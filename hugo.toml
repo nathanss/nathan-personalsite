@@ -3,6 +3,7 @@ title = "Nathan S. Schneider"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
+enableEmoji = true
 
 [markup.goldmark.renderer]
     unsafe = true
