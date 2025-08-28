@@ -1,6 +1,6 @@
 +++
 date = '2025-08-27T09:23:09-03:00'
-title = 'My First Post'
+title = 'Hello World'
 +++
 
 What's up? 

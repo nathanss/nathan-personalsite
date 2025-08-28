@@ -1,4 +1,4 @@
-baseurl = "http://www.nathanss.com"
+baseurl = "https://nathanss.com"
 title = "Nathan S. Schneider"
 theme = "hugo-coder"
 languagecode = "en"
