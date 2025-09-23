@@ -48,9 +48,7 @@ style = "github-dark"
 [params]
   author = "Nathan S. Schneider"  
   avatarurl = "images/avatar.jpg"
-  faviconSVG = "/img/favicon.svg"
-  favicon_32 = "/img/favicon-32x32.png"
-  favicon_16 = "/img/favicon-16x16.png"
+  faviconSVG = "/images/favicon.svg"
   since = 2015
   enableTwemoji = true
   colorScheme = "dark"
